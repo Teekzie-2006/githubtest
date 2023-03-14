@@ -1,2 +1,2 @@
 # githubtest
-i am crating this repo for communication between github server and pc. 
+i am creating this repo for communication between github server and pc. 
